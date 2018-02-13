@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/spukas/ethereum-solidity.git",
   "author": "Linas Spukas <l.spukas@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.19"
+  }
 }
