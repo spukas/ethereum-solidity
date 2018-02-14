@@ -5,6 +5,9 @@
   "repository": "https://github.com/spukas/ethereum-solidity.git",
   "author": "Linas Spukas <l.spukas@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "ganache-cli": "^6.0.3",
     "mocha": "^5.0.0",
